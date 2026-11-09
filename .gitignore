@@ -1,0 +1,30 @@
+# Local builds; keep the explicitly packaged binary in dist/
+/*.exe
+/*.zip
+*.tmp
+*.bak
+*.log
+*.pdb
+
+# Player/private data and development captures
+research/
+upgrade-backups/
+session-test-data/
+**/plan.json
+**/plan.json.*
+**/clipboard-read-diagnostic.json
+export-test.png
+
+# Credentials and local environment
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.codex/
+.agents/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store

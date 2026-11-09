@@ -1,0 +1,3 @@
+﻿PASS: 484 assertions
+Characters: 60
+Six special limits, normal cap, same-team duplicates, ownership, slot replacement, released uses, single Rover form, both gender portraits, every attribute switch, team slot and ownership migration, profile retention, undo, legacy plan migration, JSON roundtrip, invalid import rejection, profile persistence, clear all teams, retained ownership and profiles, released uses, bulk-clear undo, screenshot merge deduplication and preservation, in-memory clipboard PNG and Bitmap decoding, invalid clipboard fallback, text and empty clipboard handling, every bundled portrait decoded.

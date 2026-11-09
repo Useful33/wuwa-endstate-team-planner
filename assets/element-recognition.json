@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "气动",
+    "Id": 4,
+    "File": "element_4.png",
+    "Resource": "element.4"
+  },
+  {
+    "Name": "热熔",
+    "Id": 2,
+    "File": "element_2.png",
+    "Resource": "element.2"
+  },
+  {
+    "Name": "衍射",
+    "Id": 5,
+    "File": "element_5.png",
+    "Resource": "element.5"
+  },
+  {
+    "Name": "冷凝",
+    "Id": 1,
+    "File": "element_1.png",
+    "Resource": "element.1"
+  },
+  {
+    "Name": "湮灭",
+    "Id": 6,
+    "File": "element_6.png",
+    "Resource": "element.6"
+  },
+  {
+    "Name": "导电",
+    "Id": 3,
+    "File": "element_3.png",
+    "Resource": "element.3"
+  }
+]

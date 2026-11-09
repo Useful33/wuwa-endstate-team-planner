@@ -1,0 +1,542 @@
+[
+  {
+    "Id": "1402",
+    "Name": "秧秧",
+    "Element": "气动",
+    "Weapon": "迅刀",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_1_UI.png",
+    "Group": "1402"
+  },
+  {
+    "Id": "1202",
+    "Name": "炽霞",
+    "Element": "热熔",
+    "Weapon": "佩枪",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_2_UI.png",
+    "Group": "1202"
+  },
+  {
+    "Id": "1503",
+    "Name": "维里奈",
+    "Element": "衍射",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_3_UI.png",
+    "Group": "1503"
+  },
+  {
+    "Id": "1501",
+    "Name": "漂泊者·衍射",
+    "Element": "衍射",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.png",
+    "Group": "漂泊者"
+  },
+  {
+    "Id": "1102",
+    "Name": "散华",
+    "Element": "冷凝",
+    "Weapon": "迅刀",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_7_UI.png",
+    "Group": "1102"
+  },
+  {
+    "Id": "1601",
+    "Name": "桃祈",
+    "Element": "湮灭",
+    "Weapon": "长刃",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_9_UI.png",
+    "Group": "1601"
+  },
+  {
+    "Id": "1103",
+    "Name": "白芷",
+    "Element": "冷凝",
+    "Weapon": "音感仪",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_6_UI.png",
+    "Group": "1103"
+  },
+  {
+    "Id": "1203",
+    "Name": "安可",
+    "Element": "热熔",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_8_UI.png",
+    "Group": "1203"
+  },
+  {
+    "Id": "1602",
+    "Name": "丹瑾",
+    "Element": "湮灭",
+    "Weapon": "迅刀",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_10_UI.png",
+    "Group": "1602"
+  },
+  {
+    "Id": "1403",
+    "Name": "秋水",
+    "Element": "气动",
+    "Weapon": "佩枪",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_12_UI.png",
+    "Group": "1403"
+  },
+  {
+    "Id": "1404",
+    "Name": "忌炎",
+    "Element": "气动",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_11_UI.png",
+    "Group": "1404"
+  },
+  {
+    "Id": "1204",
+    "Name": "莫特斐",
+    "Element": "热熔",
+    "Weapon": "佩枪",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_13_UI.png",
+    "Group": "1204"
+  },
+  {
+    "Id": "1603",
+    "Name": "椿",
+    "Element": "湮灭",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_29_UI.png",
+    "Group": "1603"
+  },
+  {
+    "Id": "1301",
+    "Name": "卡卡罗",
+    "Element": "导电",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_18_UI.png",
+    "Group": "1301"
+  },
+  {
+    "Id": "1302",
+    "Name": "吟霖",
+    "Element": "导电",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_17_UI.png",
+    "Group": "1302"
+  },
+  {
+    "Id": "1104",
+    "Name": "凌阳",
+    "Element": "冷凝",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_14_UI.png",
+    "Group": "1104"
+  },
+  {
+    "Id": "1303",
+    "Name": "渊武",
+    "Element": "导电",
+    "Weapon": "臂铠",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_15_UI.png",
+    "Group": "1303"
+  },
+  {
+    "Id": "1604",
+    "Name": "漂泊者·湮灭",
+    "Element": "湮灭",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_5_UI.png",
+    "Group": "漂泊者"
+  },
+  {
+    "Id": "1405",
+    "Name": "鉴心",
+    "Element": "气动",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_23_UI.png",
+    "Group": "1405"
+  },
+  {
+    "Id": "1304",
+    "Name": "今汐",
+    "Element": "衍射",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_24_UI.png",
+    "Group": "1304"
+  },
+  {
+    "Id": "1305",
+    "Name": "相里要",
+    "Element": "导电",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_25_UI.png",
+    "Group": "1305"
+  },
+  {
+    "Id": "1205",
+    "Name": "长离",
+    "Element": "热熔",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_26_UI.png",
+    "Group": "1205"
+  },
+  {
+    "Id": "1105",
+    "Name": "折枝",
+    "Element": "冷凝",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_27_UI.png",
+    "Group": "1105"
+  },
+  {
+    "Id": "1504",
+    "Name": "灯灯",
+    "Element": "导电",
+    "Weapon": "长刃",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_30_UI.png",
+    "Group": "1504"
+  },
+  {
+    "Id": "1106",
+    "Name": "釉瑚",
+    "Element": "冷凝",
+    "Weapon": "臂铠",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_31_UI.png",
+    "Group": "1106"
+  },
+  {
+    "Id": "1505",
+    "Name": "守岸人",
+    "Element": "衍射",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_28_UI.png",
+    "Group": "1505"
+  },
+  {
+    "Id": "1606",
+    "Name": "洛可可",
+    "Element": "湮灭",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_33_UI.png",
+    "Group": "1606"
+  },
+  {
+    "Id": "1107",
+    "Name": "珂莱塔",
+    "Element": "冷凝",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_32_UI.png",
+    "Group": "1107"
+  },
+  {
+    "Id": "1206",
+    "Name": "布兰特",
+    "Element": "热熔",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_44_UI.png",
+    "Group": "1206"
+  },
+  {
+    "Id": "1506",
+    "Name": "菲比",
+    "Element": "衍射",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_45_UI.png",
+    "Group": "1506"
+  },
+  {
+    "Id": "1406",
+    "Name": "漂泊者·气动",
+    "Element": "气动",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.png",
+    "Group": "漂泊者"
+  },
+  {
+    "Id": "1607",
+    "Name": "坎特蕾拉",
+    "Element": "湮灭",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_34_UI.png",
+    "Group": "1607"
+  },
+  {
+    "Id": "1407",
+    "Name": "夏空",
+    "Element": "气动",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_37_UI.png",
+    "Group": "1407"
+  },
+  {
+    "Id": "1507",
+    "Name": "赞妮",
+    "Element": "衍射",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_38_UI.png",
+    "Group": "1507"
+  },
+  {
+    "Id": "1207",
+    "Name": "露帕",
+    "Element": "热熔",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_46_UI.png",
+    "Group": "1207"
+  },
+  {
+    "Id": "1608",
+    "Name": "弗洛洛",
+    "Element": "湮灭",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_41_UI.png",
+    "Group": "1608"
+  },
+  {
+    "Id": "1409",
+    "Name": "卡提希娅",
+    "Element": "气动",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_40_UI.png",
+    "Group": "1409"
+  },
+  {
+    "Id": "1306",
+    "Name": "奥古斯塔",
+    "Element": "导电",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_51_UI.png",
+    "Group": "1306"
+  },
+  {
+    "Id": "1410",
+    "Name": "尤诺",
+    "Element": "气动",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_48_UI.png",
+    "Group": "1410"
+  },
+  {
+    "Id": "1307",
+    "Name": "卜灵",
+    "Element": "导电",
+    "Weapon": "音感仪",
+    "Rarity": 4,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_58_UI.png",
+    "Group": "1307"
+  },
+  {
+    "Id": "1208",
+    "Name": "嘉贝莉娜",
+    "Element": "热熔",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_55_UI.png",
+    "Group": "1208"
+  },
+  {
+    "Id": "1508",
+    "Name": "千咲",
+    "Element": "湮灭",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_57_UI.png",
+    "Group": "1508"
+  },
+  {
+    "Id": "1411",
+    "Name": "仇远",
+    "Element": "气动",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_56_UI.png",
+    "Group": "1411"
+  },
+  {
+    "Id": "1509",
+    "Name": "琳奈",
+    "Element": "衍射",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_60_UI.png",
+    "Group": "1509"
+  },
+  {
+    "Id": "1209",
+    "Name": "莫宁",
+    "Element": "热熔",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_61_UI.png",
+    "Group": "1209"
+  },
+  {
+    "Id": "1510",
+    "Name": "陆·赫斯",
+    "Element": "衍射",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_54_UI.png",
+    "Group": "1510"
+  },
+  {
+    "Id": "1210",
+    "Name": "爱弥斯",
+    "Element": "热熔",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_53_UI.png",
+    "Group": "1210"
+  },
+  {
+    "Id": "1412",
+    "Name": "西格莉卡",
+    "Element": "气动",
+    "Weapon": "臂铠",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_65_UI.png",
+    "Group": "1412"
+  },
+  {
+    "Id": "1211",
+    "Name": "达妮娅",
+    "Element": "热熔",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_64_UI.png",
+    "Group": "1211"
+  },
+  {
+    "Id": "1308",
+    "Name": "丽贝卡",
+    "Element": "导电",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_69_UI.png",
+    "Group": "1308"
+  },
+  {
+    "Id": "1109",
+    "Name": "洛瑟菈",
+    "Element": "冷凝",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_66_UI.png",
+    "Group": "1109"
+  },
+  {
+    "Id": "1511",
+    "Name": "露西",
+    "Element": "衍射",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_68_UI.png",
+    "Group": "1511"
+  },
+  {
+    "Id": "1108",
+    "Name": "绯雪",
+    "Element": "冷凝",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_67_UI.png",
+    "Group": "1108"
+  },
+  {
+    "Id": "1309",
+    "Name": "漂泊者·导电",
+    "Element": "导电",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_4_UI.png",
+    "Group": "漂泊者"
+  },
+  {
+    "Id": "1610",
+    "Name": "秧秧·玄翎",
+    "Element": "湮灭",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_70_UI.png",
+    "Group": "1610"
+  },
+  {
+    "Id": "1110",
+    "Name": "穗穗",
+    "Element": "冷凝",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_71_UI.png",
+    "Group": "1110"
+  },
+  {
+    "Id": "1413",
+    "Name": "清宵",
+    "Element": "气动",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_73_UI.png",
+    "Group": "1413"
+  },
+  {
+    "Id": "1311",
+    "Name": "心",
+    "Element": "导电",
+    "Weapon": "音感仪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_75_UI.png",
+    "Group": "1311"
+  },
+  {
+    "Id": "1212",
+    "Name": "景燃",
+    "Element": "热熔",
+    "Weapon": "长刃",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_74_UI.png",
+    "Group": "1212"
+  },
+  {
+    "Id": "1312",
+    "Name": "锁暝",
+    "Element": "导电",
+    "Weapon": "迅刀",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_76_UI.png",
+    "Group": "1312"
+  }
+]

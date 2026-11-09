@@ -1,0 +1,78 @@
+[
+  {
+    "Id": "1501",
+    "Name": "星火永明",
+    "File": "skin_1501_81011501.png",
+    "Resource": "variant.1501.81011501",
+    "Gender": "男"
+  },
+  {
+    "Id": "1102",
+    "Name": "叱妖诰",
+    "File": "skin_1102_81011102.png",
+    "Resource": "variant.1102.81011102"
+  },
+  {
+    "Id": "1604",
+    "Name": "星火永明",
+    "File": "skin_1604_81011604.png",
+    "Resource": "variant.1604.81011604",
+    "Gender": "女"
+  },
+  {
+    "Id": "1304",
+    "Name": "桃夭灼灼",
+    "File": "skin_1304_81011304.png",
+    "Resource": "variant.1304.81011304"
+  },
+  {
+    "Id": "1205",
+    "Name": "桂枝宁芙",
+    "File": "skin_1205_81011205.png",
+    "Resource": "variant.1205.81011205"
+  },
+  {
+    "Id": "1107",
+    "Name": "夏日旖旎",
+    "File": "skin_1107_81011107.png",
+    "Resource": "variant.1107.81011107"
+  },
+  {
+    "Id": "1406",
+    "Name": "星火永明",
+    "File": "skin_1406_81011406.png",
+    "Resource": "variant.1406.81011406",
+    "Gender": "男"
+  },
+  {
+    "Id": "1507",
+    "Name": "城市午茶",
+    "File": "skin_1507_81011507.png",
+    "Resource": "variant.1507.81011507"
+  },
+  {
+    "Id": "1508",
+    "Name": "蜜桃冰",
+    "File": "skin_1508_81011508.png",
+    "Resource": "variant.1508.81011508"
+  },
+  {
+    "Id": "1509",
+    "Name": "薄荷糖",
+    "File": "skin_1509_81011509.png",
+    "Resource": "variant.1509.81011509"
+  },
+  {
+    "Id": "1209",
+    "Name": "呢绒梦",
+    "File": "skin_1209_81011209.png",
+    "Resource": "variant.1209.81011209"
+  },
+  {
+    "Id": "1309",
+    "Name": "星火永明",
+    "File": "skin_1309_81011309.png",
+    "Resource": "variant.1309.81011309",
+    "Gender": "男"
+  }
+]
