@@ -550,6 +550,15 @@
       "MainOutput": false,
       "RapidConcerto": true,
       "Healer": false
+    },
+    {
+      "Id": "custom-lily",
+      "Name": "莉莉",
+      "FirstRelease": "2026-11-20",
+      "LimitedFiveStar": true,
+      "MainOutput": false,
+      "RapidConcerto": false,
+      "Healer": true
     }
   ]
 }

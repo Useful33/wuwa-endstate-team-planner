@@ -538,5 +538,14 @@
     "Rarity": 5,
     "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_76_UI.png",
     "Group": "1312"
+  },
+  {
+    "Id": "custom-lily",
+    "Name": "莉莉",
+    "Element": "衍射",
+    "Weapon": "佩枪",
+    "Rarity": 5,
+    "Image": "https://s3-storage-api.encore.moe/resource/Data/Game/Aki/UI/UIResources/Common/Image/IconRoleHead256/T_IconRoleHead256_77_UI.png",
+    "Group": "custom-lily"
   }
 ]
